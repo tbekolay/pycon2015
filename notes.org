@@ -1,0 +1,8 @@
+* TODO
+** ANN slide: Add X fragment to the conv net
+** Compiler slide: show the connection weights instead of diagram
+** Coding slide: Do a single bit first, then a second, lead up to all.
+** Also incremental for neural slide
+
+* Notes
+** Add supplementary slides with speed slide?
