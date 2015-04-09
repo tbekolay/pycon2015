@@ -1,3 +1,44 @@
+.rendered_html h1 {
+    font-size: 380%;
+}
+
+.rendered_html h2 {
+    font-size: 300%
+}
+
+.rendered_html h3 {
+    font-size: 190%;
+}
+
+.rendered_html ol, .rendered_html ul {
+    font-size: 160%;
+    line-height: 120%;
+    margin-left: 5em;
+}
+
+div.MathJax_Display {
+    font-size: 160%;
+    line-height: 120%;
+}
+
+div.prompt {
+    display: none;
+}
+
+div.input_area, div.output_area {
+    margin-left: 6em;
+    margin-right: 6em;
+    font-size: 110%;
+}
+
+div.output_subarea {
+    max-width: 100%;
+}
+
+a.anchor-link {
+    display: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
