@@ -16,6 +16,10 @@
     margin-left: 5em;
 }
 
+pre.push-right {
+    margin-left: 8em;
+}
+
 div.MathJax_Display {
     font-size: 160%;
     line-height: 120%;
@@ -26,8 +30,8 @@ div.prompt {
 }
 
 div.input_area, div.output_area {
-    margin-left: 6em;
-    margin-right: 6em;
+    margin-left: 5em;
+    margin-right: 5em;
     font-size: 110%;
 }
 

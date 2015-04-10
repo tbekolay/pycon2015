@@ -53,7 +53,7 @@
 <link rel="stylesheet" href="{{resources.reveal.url_prefix}}/css/theme/simple.css" id="theme">
 
 <!-- For syntax highlighting -->
-<link rel="stylesheet" href="{{resources.reveal.url_prefix}}/lib/css/zenburn.css">
+<link rel="stylesheet" href="{{resources.reveal.url_prefix}}/lib/css/default.css">
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
