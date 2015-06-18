@@ -165,7 +165,7 @@ div.output_prompt {
 // Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
 controls: false,
-progress: true,
+progress: false,
 history: true,
 slideNumber: true,
 center: true,
